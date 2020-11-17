@@ -9,6 +9,5 @@ public class Program
     giraffe.talk();
     Lion lion=new Lion();
     lion.talk();
-
   }
 }
